@@ -466,19 +466,20 @@ color: rgb(30,152,255);
 `;
 let title1 = "法王の主页";
 let title2 = `
- _____ __  __  _______     ____     __
-|_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
-  | | | \\  / | (___  \\ \\_/ /  \\ \\_/ / 
-  | | | |\\/| |\\___ \\  \\   /    \\   /  
- _| |_| |  | |____) |  | |      | |   
-|_____|_|  |_|_____/   |_|      |_|                                                     
+  _                   _  ___             
+ | |    __ ___      _| |/ (_)_ __   __ _ 
+ | |   / _\` \\ \\ /\\ / / ' /| | '_ \\ / _\` |
+ | |__| (_| |\\ V  V /| . \\| | | | | (_| |
+ |_____\\__,_| \\_/\\_/ |_|\\_\\_|_| |_|\\__, |
+                                   |___/                              
 `;
 let content = `
 版 本 号：3.4
 更新日期：2022-07-24
-
-主页:  https://www.imsyy.top
-Github:  https://github.com/imsyy/home
+imsyy主页:  https://www.imsyy.top
+原项目Github:  https://github.com/imsyy/home
+二改项目Github： https://github.com/hsBUPT/hsBUPT.github.io
+法王の主页： https://github.com/fawangyyds/my_home
 `;
 console.log(
   `%c${title1} %c${title2}
